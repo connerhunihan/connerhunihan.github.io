@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <style>
+        /*In-line styling for the legend
+        Thanks to http://zeroviscosity.com/d3-js-step-by-step/step-3-adding-a-legend*/
+        .legend {
+            font-size: 12px;
+        }
+
+        rect {
+            stroke-width: 2;
+        }
+    </style>
+    <script src="http://d3js.org/d3.v4.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.25.6/d3-legend.js"></script>
+    <!-- Thanks to Susie Lu for the library – http://d3-legend.susielu.com/#color-ordinal -->
+    <script src="app.js"></script>
+</head>
+<body>
+    <div id='graph'></div>
+    <div id='text'>
+    	<div id='year'>
+    		<p>YEAR </p>
+    	</div>
+    	<button id="nextButton">Next</button>
+    </div>
+</body>
+</html>

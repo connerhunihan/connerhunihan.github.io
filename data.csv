@@ -1,0 +1,19 @@
+type,xValue_2013,xValue_2014,xValue_2015,xValue_2016,xValue_2017,yValue_2013,yValue_2014,yValue_2015,yValue_2016,yValue_2017,label
+"Labrador 
+Retriever",1,1,1,1,1,35026,34715,32507,33856,35068,Sporting
+"Cocker
+Spaniel",2,2,2,2,3,22943,22366,22577,21854,23317,Sporting
+"English Springer
+Spaniel",3,3,4,5,5,11316,10616,10246,9827,9958,Sporting
+Pug,4,5,5,4,4,8071,9245,10087,10408,10783,Toy
+"German 
+Shepherd",5,6,6,7,8,7954,7926,7783,7751,7479,Herding
+"Golden 
+Retriever",6,7,8,8,7,7117,6977,6928,7232,7846,Sporting
+"French 
+Bulldog",7,4,3,3,2,6990,9670,14607,21470,30887,Non-sporting
+"Border 
+Terrier",8,8,9,9,9,6390,5988,5426,5150,5130,Terrier
+Bulldog,9,9,7,6,6,5769,5958,6960,7785,9450,Non-sporting
+"Staffordshire 
+Bull Terrier",10,10,10,10,10,5767,4937,4563,4213,4282,Terrier
